@@ -1,0 +1,14 @@
+runs/
+*.pt
+*.bin
+*.json
+*.log
+*.csv
+*.txt
+*.md
+*.yaml
+*.yml
+assets/
+weights/
+__pycache__/
+
